@@ -1,7 +1,7 @@
 Hi, I'm Teresa De Bastiani 👋
 Senior Research Analyst & Data Analyst | Brazil
 
-I have 10 years of experience in market research and public opinion, working on national and international quantitative studies for clients such as Gallup, Pew Research Center, Harvard University, Oxford University, Google, and UNICEF.
+I have 10 years of experience in market and public opinion research, working on national and international quantitative studies for clients such as Gallup, Pew Research Center, Harvard University, Oxford University, Google, and UNICEF.
 My background sits at the intersection of social science and data: I use Python, R, and SPSS to analyze what the data says, and social science to understand why.
 I'm now expanding my work into data analysis and building projects that reflect what I've been doing in applied research for a decade.
 
