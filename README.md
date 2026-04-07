@@ -13,11 +13,12 @@ Power BI | Tableau | Looker
 
 
 📂 Featured Projects
-| Project | Description | Stack |
-|---|---|---|
-| 🔍 [Survey QC Automation](https://github.com/mteresadeb/survey-qc-automation) | Python scripts for automated quality control of survey field data: detects inconsistencies, flags suspicious interviewer patterns and generates structured QC reports | `Python` `Pandas` |
-| 🌱 [Audience Segmentation Analysis](https://github.com/mteresadeb/audience-segmentation) | Psychometric segmentation of public opinion data using clustering techniques to classify population groups by values, beliefs and environmental behaviors | `Python` `Scikit-learn` `Matplotlib` |
-| 📊 [Public Opinion EDA](https://github.com/mteresadeb/public-opinion-eda) | Exploratory analysis of Brazilian public opinion datasets with demographic and regional breakdowns, longitudinal comparisons and data visualizations | `Python` `Pandas` `Matplotlib` `Seaborn` |
+| | Project | Description | Stack |
+|---|---|---|---|
+| 🔍 | [**Survey QC Automation**](https://github.com/mteresadeb/survey-qc-automation) | Automated quality control pipeline for survey field data — 18 checks covering interviewer behavior, response patterns and data consistency, with structured QC reports | `Python` `Pandas` |
+| 🌱 | [**Audience Segmentation**](https://github.com/mteresadeb/audience-segmentation) | Psychometric segmentation of consumer behavior data using K-Means clustering — radar chart, PCA map and reusable pipeline | `Python` `Scikit-learn` `Matplotlib` |
+| 📊 | [**Public Opinion EDA**](https://github.com/mteresadeb/public-opinion-eda) | Exploratory analysis of institutional trust survey data — ITI index, polarization analysis, regional heatmap and distribution charts | `Python` `Pandas` `Matplotlib` |
+| 🇧🇷 | [**PNAD Contínua Analysis**](https://github.com/mteresadeb/pnadc-analysis) | Survey-weighted analysis of Brazil's labor market using PNAD Contínua microdata — descriptive stats, weighted estimates, regression models in R and interactive dashboard in Python | `R` `Python` `survey` `Plotly` |
 
 📌 Background
 🎓 B.A. in Social Sciences — UFSC (2015)
